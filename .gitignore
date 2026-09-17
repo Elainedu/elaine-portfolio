@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+.claude/
+
+# Windows / OneDrive
+desktop.ini
+Thumbs.db
+
+# 舊誤存的 windows-path 檔
+C:Usersdyl89Downloads*.txt
